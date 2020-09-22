@@ -27,7 +27,7 @@ Der er kun nogle få krav til opgaven
 
 
 
-![retning](/Users/jeppe/GitHub/Skriftlig-proeve-if-else-loops/retning.jpg)
+![retning](./retning.jpg)
 
 
 
